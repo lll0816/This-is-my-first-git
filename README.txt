@@ -19,4 +19,4 @@ Date:Sun Nov 30 01:15:04 CST 2014
 Test collaboration 1!
 
 ------------------------------------------
-Test collaboration 2!
+Test laboration 2!
